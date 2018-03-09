@@ -5,3 +5,6 @@ projects:
   - ocra
   - releasy
   - rubyscript2exe
+  - ruby-packer
+  - rb2exe
+  - ruby_ship
